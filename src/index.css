@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Display";
+  src: url("./Assets/Playfair_Display/static/PlayfairDisplay-Regular.ttf")
+    format("truetype");
+}
+
+body {
+  padding: 0 10%;
+  background-color: #e06b243d;
+  font-family: "Display";
+}
